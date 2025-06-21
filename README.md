@@ -7,7 +7,8 @@ It includes basic operations and features like exponent handling and a power ON/
 
 This Calculator project was inspired by [Bro Code](https://www.youtube.com/@BroCodez) Here is the video of his tutorial: https://www.youtube.com/watch?v=I5kj-YsmWjM
 
-In addition to this, I added extra features like power On/Off button and exponent calculations as well.
+In addition to this, I added extra features like power On/Off button and exponent calculations on my own.
+
 
 ## Documentation
 A basic calculator made with HTML, CSS, and JavaScript.
