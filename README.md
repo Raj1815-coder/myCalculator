@@ -1,9 +1,16 @@
 
+## My Calculator
+This is a simple calculator built with HTML, CSS, and JavaScript.
+
+## Features
+It includes basic operations and features like exponent handling and a power ON/OFF toggle.
+It has a responsive design and a clean UI
+
+## Live Demo
+
+Live Link: https://raj1815-coder.github.io/myCalculator/
 
 ## Credits
-This is a simple calculator built with HTML, CSS, and JavaScript.
-It includes basic operations and features like exponent handling and a power ON/OFF toggle.
-
 This Calculator project was inspired by [Bro Code](https://www.youtube.com/@BroCodez) Here is the video of his tutorial: https://www.youtube.com/watch?v=I5kj-YsmWjM
 
 In addition to this, I added extra features like power On/Off button and exponent calculations on my own.
@@ -24,3 +31,6 @@ Clear (C) button- you can clear the display area.
 - HTML
 - CSS 
 - Javascript
+
+## View Source Code
+You can explore or fork the code in this repo. 
