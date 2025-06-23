@@ -1,5 +1,4 @@
 
-## Live Version of the Project: https://raj1815-coder.github.io/myCalculator/
 
 ## Credits
 This is a simple calculator built with HTML, CSS, and JavaScript.
